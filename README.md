@@ -40,15 +40,15 @@
             <section id="education">
                 <h2>Education</h2>
                 <ul> 
-                   <li>B.Tech in Computer Science,SSIET College, 2019-2023</li>
-                   <li>Intermediate in PPC, Sarada Junior College, 2017-2019</li>
-                   <li>ssc, st.Mary's, 2016-2017</li>
+                   <li>B.Tech in Computer Science,BVRITH College, 2020-2023</li>
+                   <li>Diploma in Computer Science, ELLENKI College, 2016-2019</li>
+                   <li>ssc, Bhashyam Public School, 2015-2016</li>
                 </ul>
     
             </section>
             <section id="resume">
                 <h2>Resume</h2>
-                <p>Download my resume:<a href="manju resume.pdf" download> Manju Resume.pdf</a></p>
+                
             </section>
             <section id="skills">
                 <h2>skills</h2>
@@ -61,14 +61,14 @@
                 </section>
                 <section id-"project">
                     <h2>Projects</h2>
-                    <h3>Driver Drowsiness Detection</h3>
-                    <p>Description of project:The main goal of this project is to develop a drowsiness detection system by monitor
+                    <h3>Vehicle Number Recognition Using General Surveillance Camera</h3>
+                    <p>Description of project:The main goal of this project is to recognition of vehicle number plate using survellance camera</p>
                     </section>
                     <section id-"achievements"
                         <h2>Achievements</h2>
                         <ul>
-                           <li>won 1st place in the regional programming competition, 2023</li>
-                           <li>won 1st place in poster presentation in college fest</li>
+                           <li>paper publication in 2023</li>
+                           
                         </ul>
                     </section>
                     <section id="contact">
